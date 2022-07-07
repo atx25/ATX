@@ -3,7 +3,7 @@ title: MG90s使用
 category: /小书匠/单片机开发/舵机的使用
 renderNumberedHeading: true
 grammar_cjkRuby: true
-tags: 小书匠
+tags: 单片机
 ---
        
 # 舵机使用原理
