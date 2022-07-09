@@ -6,9 +6,9 @@ renderNumberedHeading: true
 grammar_cjkRuby: true
 ---
 # Math取整
-向上取整用Math.ceil(double a)
-向下取整用Math.floor(double a)
-四舍五入用Math.round(double num)
+向上取整用Math.ceil(double a)；
+向下取整用Math.floor(double a)；
+四舍五入用Math.round(double num)；
 对精度要求比较高，精度可能出现问题，
 # DecimalFormat对象
 首先构建一个DecimalFormat对象
